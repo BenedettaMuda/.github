@@ -189,11 +189,13 @@ We describe the first fully defined, feeder-free culture system for the efficien
 
 ## <img src="./icons/sts.png" alt="pin icon" style="height: 2em; vertical-align: middle;">  Science and technology studies (STS)
 
-- 📌 **Scrutinizing the EU General Data Protection Regulation.** Marelli and Testa, Science. https://doi.org/10.1126/science.aar5419 <br>
-This is the first scholarly analysis of the impact of the GDPR on biomedical research
+- 📌 **States of representation: Reading Europe through its genomes.** Caporale et al. Edward Elgar Publishing. https://www.elgaronline.com/edcollchap/book/9781800886629/chapter5.xml <br>
+In this book chapter, we examine Europe's 1+ Million Genomes initiative to reveal how genomic science and political representation are deeply intertwined, showing that the seemingly technical task of sequencing genomes embodies specific normative and political commitments. Through comparison with similar projects in the United States and United Kingdom, we demonstrate how the EU's political fragmentation shapes, and is further shaped by, the heterogeneous collection and analysis of genomic data. Ultimately, we argue that the initiative's success depends on adopting a more reflexive approach that explicitly acknowledges the social and political dimensions of genetic diversity.
+
 <details>
   <summary>Additional STS publications</summary>
-
+  
+- **Scrutinizing the EU General Data Protection Regulation.** Marelli and Testa, Science. https://doi.org/10.1126/science.aar5419
 - **Different Names for the Same Thing? Novelty, Expectations, and Performative Nominalism in Personalized and Precision Medicine.** *Galasso et al.*, Social Theory & Health. https://doi.org/10.1057/s41285-024-00203-8<br>
 - **Big Tech platforms in health research: Re-purposing big data governance in light of the General Data Protection Regulation’s research exemption.** *Marelli et al.*, Big Data & Society. https://doi.org/10.1177/20539517211018783<br>
 - **Rethinking Human Embryo Research Policies.** *Matthews et al.*, Hastings Center Report. https://doi.org/10.1002/hast.1215 <br>
